@@ -3,6 +3,7 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "css-loader": "^1.0.1"
   },
   "devDependencies": {
     "webpack": "^4.26.1",
